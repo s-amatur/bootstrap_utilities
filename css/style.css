@@ -1,0 +1,28 @@
+.f_box{
+	margin: 50px 0;
+	background-color: #ddd;
+	min-height: 200px;
+}
+
+.box{
+/*	margin-top: 20px;*/
+	background-color: white;
+	border: 1px solid grey;
+	width: 200px;
+	height: 100px;
+}
+h2, a{
+	margin-top: 80px;
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 80px;
+}
+p{
+	text-align: center;
+}
+/*.s_box{
+	background: red;
+}
+*/
+
